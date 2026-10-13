@@ -11,6 +11,10 @@ const points = [
     title: "I can talk to the client",
     body: "Years of account management means I can take a brief from a non-technical stakeholder, push back when something won’t work, and explain the trade-offs in plain English.",
   },
+  {
+    title: "I use AI the way a good team uses a senior colleague",
+    body: "I build with Claude every day: for scaffolding, debugging and talking through tricky logic. It makes me faster, not less responsible. I plan the structure, review every line, and won’t ship code I can’t explain.",
+  },
 ];
 
 export default function Approach() {

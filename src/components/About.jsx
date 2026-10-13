@@ -38,6 +38,11 @@ export default function About() {
               afterwards why the enquiry form sits where it does.
             </p>
             <p className="text-ink-soft">
+              I use AI tools like Claude as part of my workflow, so I spend
+              less time on boilerplate and more on the parts that matter to the
+              client.
+            </p>
+            <p className="text-ink-soft">
               Some of my favourite builds started as personal itches: a name
               generator for Warhammer players, and a currency converter I needed
               on a trip to Thailand.
