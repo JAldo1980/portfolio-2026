@@ -2,6 +2,7 @@ import Header from './components/Header.jsx'
 import Hero from './components/Hero.jsx'
 import Featured from './components/Featured.jsx'
 import MoreWork from './components/MoreWork.jsx'
+import RapidBuilds from './components/RapidBuilds.jsx'
 import Approach from './components/Approach.jsx'
 import Archive from './components/Archive.jsx'
 import About from './components/About.jsx'
@@ -19,6 +20,7 @@ export default function App() {
         <Hero />
         <Featured />
         <MoreWork />
+        <RapidBuilds />
         <Approach />
         <Archive />
         <About />

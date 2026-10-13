@@ -3,6 +3,7 @@ import { contact } from '../data/projects.js'
 
 const links = [
   { href: '#work', label: 'Work' },
+  { href: '#rapid', label: 'Rapid builds' },
   { href: '#approach', label: 'Approach' },
   { href: '#about', label: 'About' },
   { href: '#contact', label: 'Contact' },

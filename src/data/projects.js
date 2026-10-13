@@ -101,3 +101,35 @@ export const contact = {
   linkedin: 'https://www.linkedin.com/in/jamespalderman/',
   github: 'https://github.com/JAldo1980',
 }
+
+// Rapid builds: small tools prototyped quickly with AI to solve a real problem.
+// Add the Netlify and GitHub links once they're live (leave as '' to hide a link).
+export const rapid = [
+  {
+    name: 'Agency Scope Estimator',
+    kind: 'Internal tool · Rapid build with AI',
+    problem:
+      'Agencies rebuild the same pricing spreadsheet for every proposal, and margin mistakes only show up once the work is done. This tool turns a brief into a fixed-price estimate in a couple of minutes.',
+    features: [
+      'Pick scope from 30 services across strategy, SEO, paid media, content, web and custom builds',
+      'Rate card with day or hourly rates, seniority multipliers, contingency, PM time and rush fees',
+      'Monthly retainer budget with a recommended split of hours across services and the team',
+      'Live price, cost and margin, plus a client summary to copy, email or print',
+    ],
+    decided: [
+      'The service list and how each one is priced',
+      'Pricing rules: ad spend at cost, rush fees on projects only, PM time scaling with delivery',
+      'Clients never see cost or margin',
+      'Accessible design: Atkinson Hyperlegible type, WCAG AA colours',
+    ],
+    aiHelped: [
+      'Turning the pricing rules into JavaScript',
+      'First-pass layout and responsive CSS',
+      'Drafting the client summary text, which I then rewrote',
+    ],
+    stack: ['JavaScript', 'HTML', 'CSS', 'Built with Claude'],
+    image: '/work/estimator.webp',
+    live: '',
+    code: '',
+  },
+]
