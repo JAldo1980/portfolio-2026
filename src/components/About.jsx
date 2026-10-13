@@ -26,7 +26,7 @@ export default function About() {
         <div className="lg:col-span-7 lg:col-start-6">
           <div className="space-y-6 text-lg leading-relaxed sm:text-xl">
             <p>
-              I’ve spent 13 years on start-up, client-side and agency digital:
+              I’ve spent 13 years on start-ups, client-side and agency digital:
               managing B2B accounts, running SEO and ABM campaigns, and
               co-founding a digital marketing business. Along the way I kept
               ending up in the code, first with WordPress blogs at university,
@@ -38,8 +38,8 @@ export default function About() {
               afterwards why the enquiry form sits where it does.
             </p>
             <p className="text-ink-soft">
-              I use AI tools like Claude as part of my workflow, so I spend
-              less time on boilerplate and more on the parts that matter to the
+              I use AI tools like Claude as part of my workflow, so I spend less
+              time on boilerplate and more on the parts that matter to the
               client.
             </p>
             <p className="text-ink-soft">
