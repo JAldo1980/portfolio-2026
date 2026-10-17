@@ -130,6 +130,6 @@ export const rapid = [
     stack: ['JavaScript', 'HTML', 'CSS', 'Built with Claude'],
     image: '/work/estimator.webp',
     live: 'https://agency-scope-estimator.netlify.app/',
-    code: '',
+    code: 'https://github.com/JAldo1980/agency-scope-estimator',
   },
 ]
